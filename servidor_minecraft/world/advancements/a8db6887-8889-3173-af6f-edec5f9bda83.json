@@ -3145,5 +3145,11 @@
     },
     "done": true
   },
+  "casinocraft:recipes/decorations/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2024-12-23 19:50:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

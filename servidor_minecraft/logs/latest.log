@@ -344,3 +344,143 @@
 [23Dec2024 19:51:35.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6261, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
 [23Dec2024 19:51:35.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6263, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
 [23Dec2024 19:52:34.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 19:53:18.785] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:53:19.017] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:53:19.172] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:53:35.527] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:53:35.729] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:53:36.342] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:53:39.722] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:53:39.940] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:53:41.922] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:55:35.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 19:55:36.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 19:55:50.517] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:55:52.121] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:57:22.384] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:57:22.617] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:57:22.816] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:58:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 19:58:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 19:58:58.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg moved too quickly! 5.079301600456645,0.20326439933130658,-8.673102961548402
+[23Dec2024 19:59:05.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[23Dec2024 19:59:05.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 19:59:05.732] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 19:59:05.769] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 19:59:19.730] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:59:50.861] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.862] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.862] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.863] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.863] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.864] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.864] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.865] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.865] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.865] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.866] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.866] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.867] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.867] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.867] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.868] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.868] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.869] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:59:50.869] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 20:00:04.990] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:00:33.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:36259] logged in with entity id 6859 at (91.39759654031162, 14.0, 60.70345133094662)
+[23Dec2024 20:00:33.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 20:00:33.880] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 20:00:33.882] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 20:05:03.713] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:06:04.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[23Dec2024 20:06:04.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 20:06:04.267] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 20:06:30.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:34031] logged in with entity id 7068 at (106.09799122776688, 17.0625, 311.0714262968383)
+[23Dec2024 20:06:30.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 20:06:30.443] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 20:06:30.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 20:06:40.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1 [Bundle] to Imranack]
+[23Dec2024 20:08:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unclosed quoted string
+[23Dec2024 20:08:17.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...4},{id:"go<--[HERE]
+[23Dec2024 20:09:11.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Shulker Box] to Imranack
+[23Dec2024 20:10:10.316] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:10:13.417] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:10:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 20:10:41.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:10:41.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7071, l='ServerLevel[world]', x=55.55, y=13.00, z=120.56] died, message: 'Armorer was killed'
+[23Dec2024 20:10:41.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7073, l='ServerLevel[world]', x=59.54, y=13.00, z=133.04] died, message: 'Armorer was killed'
+[23Dec2024 20:10:53.266] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:11:20.864] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:12:21.664] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:12:26.566] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:12:58.017] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:13:13.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7221, l='ServerLevel[world]', x=51.54, y=13.00, z=135.46] died, message: 'Armorer was killed'
+[23Dec2024 20:13:13.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7223, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:13:22.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7232, l='ServerLevel[world]', x=57.09, y=13.00, z=132.43] died, message: 'Armorer was killed'
+[23Dec2024 20:13:22.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/7234, l='ServerLevel[world]', x=43.75, y=13.00, z=128.07] died, message: 'Armorer was killed'
+[23Dec2024 20:14:31.763] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:35.364] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:35.564] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:35.774] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:35.966] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:37.346] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:37.766] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:37.968] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:38.189] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:38.330] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:40.164] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:14:53.565] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:15:04.864] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:05.263] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:15:05.513] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:15:05.762] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:15:05.817] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:06.063] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:06.205] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:06.413] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:06.613] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:06.763] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:06.917] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:07.114] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:07.289] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:07.513] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:07.713] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:08.119] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:08.312] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:08.499] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:13.586] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:36.013] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:45.192] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:15:50.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 20:15:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:16:29.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Removed 6000 from [bank] for Florion (now 11810)]
+[23Dec2024 20:16:57.647] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:17:37.011] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:17:44.216] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:17:57.147] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:11.961] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:17.165] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:18:21.562] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:28.516] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:31.462] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:18:38.805] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:38.953] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:39.962] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:18:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:19:05.364] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:19:23.516] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:19:32.812] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:19:40.166] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:19:48.618] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:19:50.005] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:19:50.262] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:19:51.916] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:19:52.063] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:20:19.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:20:37.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:21:02.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:21:45.291] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:23:05.700] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:23:07.003] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:23:12.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
