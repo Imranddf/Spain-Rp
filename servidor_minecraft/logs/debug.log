@@ -4000,3 +4000,65 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 18:58:46.516] [Server thread/INFO] [cuffed/]: Florion is interacting!
 [23Dec2024 18:58:55.287] [Server thread/INFO] [cuffed/]: Florion is interacting!
 [23Dec2024 18:59:15.145] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:00:06.009] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 19:00:48.952] [Server thread/WARN] [jeg/]: literal{Imranack}(45c9e1f1-d058-34e4-b7ab-09049f609783) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[23Dec2024 19:00:50.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:00:50.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:00:56.939] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:01:04.094] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:01:07.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1373, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
+[23Dec2024 19:01:11.742] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:01:13.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:01:26.888] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:01:26.891] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 19:01:27.156] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:01:27.903] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:01:27.904] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 19:02:45.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 19:03:31.109] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:45.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 19:03:49.630] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:50.111] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:54.012] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:54.012] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 19:03:54.205] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:54.368] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:55.163] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:03:55.163] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 19:03:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 19:04:00.953] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:04:14.913] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:04:16.748] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:04:25.149] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:04:26.165] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:04:28.452] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 19:04:30.743] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 19:04:34.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.36958650264639914
+[23Dec2024 19:04:34.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.8401117190287835
+[23Dec2024 19:05:00.177] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[23Dec2024 19:05:02.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/1766, l='ServerLevel[world]', x=-103.50, y=15.00, z=85.50] died, message: 'Butcher was killed'
+[23Dec2024 19:05:08.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.2881682389883107
+[23Dec2024 19:05:08.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.7586934553513283
+[23Dec2024 19:05:09.939] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 19:05:11.200] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 19:05:50.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 19:05:50.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 19:06:10.018] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:06:10.019] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 19:06:16.714] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 19:07:39.872] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Florion: {disabled=true, disconnected=true, uuid=127c64f7-9ca6-3f72-a867-0b9b8322d335, name=Florion, group=null}
+[23Dec2024 19:07:40.900] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Florion: {disabled=false, disconnected=true, uuid=127c64f7-9ca6-3f72-a867-0b9b8322d335, name=Florion, group=null}
+[23Dec2024 19:07:43.721] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:07:43.949] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:07:44.058] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:07:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 19:08:33.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 19:08:52.361] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:08:53.201] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:08:55.101] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:08:56.801] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:09:01.102] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:09:02.556] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 19:09:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Adventure Mode]
+[23Dec2024 19:09:52.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 19:10:01.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg has made the advancement [Sweet Dreams]
