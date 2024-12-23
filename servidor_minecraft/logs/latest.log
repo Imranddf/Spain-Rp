@@ -741,3 +741,61 @@
 [23Dec2024 20:53:25.714] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 20:53:35.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8547, l='ServerLevel[world]', x=59.52, y=13.00, z=130.26] died, message: 'Armorer was killed'
 [23Dec2024 20:53:35.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8549, l='ServerLevel[world]', x=47.51, y=13.00, z=121.26] died, message: 'Armorer was killed'
+[23Dec2024 20:54:14.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8563, l='ServerLevel[world]', x=53.44, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[23Dec2024 20:54:14.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8565, l='ServerLevel[world]', x=40.50, y=13.00, z=121.16] died, message: 'Armorer was killed'
+[23Dec2024 20:54:25.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8601, l='ServerLevel[world]', x=56.64, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 20:54:25.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8603, l='ServerLevel[world]', x=46.27, y=13.00, z=128.75] died, message: 'Armorer was killed'
+[23Dec2024 20:54:35.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8609, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:54:35.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8611, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:55:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Florion] Estoy en X=~ Y=~ Z=~
+[23Dec2024 20:55:59.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Timed out
+[23Dec2024 20:55:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 20:55:59.564] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 20:56:33.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8615, l='ServerLevel[world]', x=30.57, y=13.00, z=130.53] died, message: 'Armorer was killed'
+[23Dec2024 20:56:33.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8617, l='ServerLevel[world]', x=28.75, y=13.00, z=131.11] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8630, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8632, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8639, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8640, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8642, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8643, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8654, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8655, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8656, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8658, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8659, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:56:56.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8660, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:57:02.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8668, l='ServerLevel[world]', x=52.38, y=13.00, z=134.62] died, message: 'Armorer was killed'
+[23Dec2024 20:57:02.558] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8670, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:57:14.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8674, l='ServerLevel[world]', x=52.50, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 20:57:14.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8676, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:57:29.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8683, l='ServerLevel[world]', x=53.59, y=13.00, z=135.59] died, message: 'Armorer was killed'
+[23Dec2024 20:57:29.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8685, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:58:04.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8692, l='ServerLevel[world]', x=53.60, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 20:58:04.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8694, l='ServerLevel[world]', x=42.41, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:58:09.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8697, l='ServerLevel[world]', x=56.28, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:58:09.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8699, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:58:32.108] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8708, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:58:32.109] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8710, l='ServerLevel[world]', x=40.60, y=13.00, z=127.45] died, message: 'Armorer was killed'
+[23Dec2024 20:59:05.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:59:06.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8720, l='ServerLevel[world]', x=59.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 20:59:06.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8722, l='ServerLevel[world]', x=38.45, y=13.00, z=127.50] died, message: 'Armorer was killed'
+[23Dec2024 20:59:13.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:59:27.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8736, l='ServerLevel[world]', x=59.55, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[23Dec2024 20:59:27.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8738, l='ServerLevel[world]', x=43.01, y=13.00, z=127.45] died, message: 'Armorer was killed'
+[23Dec2024 20:59:35.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:52757] logged in with entity id 8743 at (-73.36744175638941, 13.0, 176.75803063901557)
+[23Dec2024 20:59:35.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 20:59:37.346] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 20:59:37.346] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 20:59:42.464] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:59:54.641] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:59:57.013] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:01:08.665] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:01:25.119] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:01:48.207] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:01:48.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:02:10.819] [Server thread/WARN] [jeg/]: literal{Momo93bg}(a8db6887-8889-3173-af6f-edec5f9bda83) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[23Dec2024 21:02:11.317] [Server thread/WARN] [jeg/]: literal{Momo93bg}(a8db6887-8889-3173-af6f-edec5f9bda83) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[23Dec2024 21:02:42.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
+[23Dec2024 21:02:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[23Dec2024 21:02:42.667] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
