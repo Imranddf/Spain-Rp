@@ -5924,3 +5924,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 21:02:42.667] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
 [23Dec2024 21:03:41.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 21:03:41.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:07:56.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Florion lost connection: Timed out
+[23Dec2024 21:07:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion left the game
+[23Dec2024 21:07:56.264] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Florion
+[23Dec2024 21:07:56.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Florion
+[23Dec2024 21:08:41.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:08:41.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 21:13:41.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 21:13:41.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
