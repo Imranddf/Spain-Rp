@@ -802,3 +802,95 @@
 [23Dec2024 21:07:56.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Florion lost connection: Timed out
 [23Dec2024 21:07:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion left the game
 [23Dec2024 21:07:56.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Florion
+[23Dec2024 21:23:22.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:36073] logged in with entity id 9207 at (-22.0, 13.350000035762788, 30.5625)
+[23Dec2024 21:23:22.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[23Dec2024 21:23:31.625] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[23Dec2024 21:23:31.626] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[23Dec2024 21:23:43.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.25.211.50:46631] logged in with entity id 9260 at (49.731782587570414, 19.877499842643736, -156.9437837919638)
+[23Dec2024 21:23:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
+[23Dec2024 21:23:44.027] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Florion (18)
+[23Dec2024 21:23:44.028] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Florion
+[23Dec2024 21:24:05.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9314, l='ServerLevel[world]', x=53.60, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 21:24:05.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9316, l='ServerLevel[world]', x=41.57, y=13.00, z=127.59] died, message: 'Armorer was killed'
+[23Dec2024 21:24:15.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9359, l='ServerLevel[world]', x=-9.50, y=2.94, z=162.50] died, message: 'Villager was killed'
+[23Dec2024 21:24:19.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9353, l='ServerLevel[world]', x=54.57, y=13.00, z=129.99] died, message: 'Armorer was killed'
+[23Dec2024 21:24:19.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9355, l='ServerLevel[world]', x=40.53, y=13.00, z=126.25] died, message: 'Armorer was killed'
+[23Dec2024 21:24:20.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9358, l='ServerLevel[world]', x=-23.60, y=3.00, z=161.85] died, message: 'Villager was killed'
+[23Dec2024 21:24:20.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9360, l='ServerLevel[world]', x=-3.50, y=3.00, z=157.50] died, message: 'Villager was killed'
+[23Dec2024 21:24:20.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9361, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[23Dec2024 21:24:20.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9362, l='ServerLevel[world]', x=-23.27, y=3.00, z=160.24] died, message: 'Villager was killed'
+[23Dec2024 21:25:11.867] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:25:39.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9506, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:25:39.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9507, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:25:39.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9508, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:25:39.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9509, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:25:39.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9510, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:25:48.097] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:25:58.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9598, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:25:58.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9599, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:25:58.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9600, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:25:58.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9601, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:25:58.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9602, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:26:15.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Imranack to Florion]
+[23Dec2024 21:26:20.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 21:26:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 21:26:25.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 21:26:41.124] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:26:57.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9517, l='ServerLevel[world]', x=166.50, y=12.00, z=-190.50] died, message: 'Farmer was killed'
+[23Dec2024 21:27:00.742] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:27:03.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9663, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:27:03.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9664, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:27:03.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9665, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:27:03.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9666, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:27:03.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9667, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:27:23.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:27:26.158] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:27:29.107] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:27:55.166] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:27:55.321] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:27:55.532] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:27:55.714] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:27:55.921] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:28:17.358] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9930, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:17.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9931, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:28:17.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9932, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:28:17.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9933, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:17.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9934, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:26.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9974, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:26.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9975, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:28:26.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9976, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:28:26.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9977, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:26.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9978, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:35.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10052, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:35.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10053, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:28:35.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10054, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:28:35.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10055, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:35.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10056, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:28:39.018] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:28:39.151] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:28:43.166] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:28:44.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 21:28:50.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 21:28:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 21:28:50.317] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 21:28:54.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:55649] logged in with entity id 10100 at (-74.87460783804383, 13.0, 169.3000495387595)
+[23Dec2024 21:28:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 21:28:54.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 21:28:54.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 21:29:14.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10161, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:29:14.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10162, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:29:14.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10163, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:29:14.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10164, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:29:14.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10165, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:29:30.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10221, l='ServerLevel[world]', x=53.60, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 21:29:30.609] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10223, l='ServerLevel[world]', x=41.12, y=13.00, z=133.88] died, message: 'Armorer was killed'
+[23Dec2024 21:30:45.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10461, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 21:30:45.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10462, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 21:30:45.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10463, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 21:30:45.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10464, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 21:30:45.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10465, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
+[23Dec2024 21:31:27.358] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:31:27.658] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:31:27.658] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:31:48.408] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:32:11.764] [Server thread/INFO] [cuffed/]: Florion is interacting!
