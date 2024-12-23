@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-23 19:37:54 +0000",
       "minecraft:lukewarm_ocean": "2024-10-30 17:49:50 +0000",
+      "minecraft:river": "2024-12-23 19:37:46 +0000",
       "minecraft:flower_forest": "2024-12-23 18:00:57 +0000",
       "minecraft:plains": "2024-10-30 15:00:01 +0000"
     },
