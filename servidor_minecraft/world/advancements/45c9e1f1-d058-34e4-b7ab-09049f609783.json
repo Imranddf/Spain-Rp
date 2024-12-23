@@ -4763,6 +4763,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-23 19:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_honeycomb": "2024-12-23 19:44:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-23 19:26:10 +0000"
@@ -4778,6 +4790,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2024-12-23 19:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-23 19:44:17 +0000"
     },
     "done": true
   },
