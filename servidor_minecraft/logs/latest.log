@@ -894,3 +894,64 @@
 [23Dec2024 21:31:27.658] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [23Dec2024 21:31:48.408] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [23Dec2024 21:32:11.764] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 21:34:24.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/11413, l='ServerLevel[world]', x=95.50, y=13.10, z=-58.50] died, message: 'Fisherman was killed'
+[23Dec2024 21:34:44.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/11518, l='ServerLevel[world]', x=372.62, y=37.00, z=2.48] died, message: 'Weaponsmith was killed'
+[23Dec2024 21:36:23.858] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:36:24.159] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:36:24.160] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:37:35.809] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:37:36.109] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:37:36.110] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:37:48.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 21:38:00.566] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:38:06.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:38:08.608] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:38:47.958] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:38:48.258] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:38:48.259] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:40:15.871] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:41:39.679] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:42:35.620] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:42:36.469] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:42:43.214] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:42:45.058] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:43:36.017] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:44:12.681] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:45:14.066] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:45:19.816] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:45:30.614] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:45:30.770] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:45:31.015] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:46:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 21:46:37.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 21:47:16.864] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:47:18.777] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:47:25.016] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:47:35.232] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:47:44.965] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:47:46.171] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:48:02.067] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:48:04.267] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:48:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 21:48:37.014] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:48:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 21:49:25.354] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:50:36.567] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:51:34.580] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:51:54.267] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:52:04.416] [Server thread/WARN] [jeg/]: literal{Momo93bg}(a8db6887-8889-3173-af6f-edec5f9bda83) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[23Dec2024 21:52:05.816] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:52:09.318] [Server thread/WARN] [jeg/]: literal{Momo93bg}(a8db6887-8889-3173-af6f-edec5f9bda83) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
+[23Dec2024 21:52:10.241] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:52:18.414] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:52:30.169] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 21:52:38.935] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:52:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 21:53:00.378] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 21:53:03.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 21:53:46.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg was executed by Imranack
+[23Dec2024 21:53:49.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13019, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
+[23Dec2024 21:53:49.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13020, l='ServerLevel[world]', x=-9.50, y=2.94, z=162.50] died, message: 'Villager was killed'
+[23Dec2024 21:53:58.608] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:53:58.909] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 21:53:58.909] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
