@@ -602,3 +602,142 @@
 [23Dec2024 20:41:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
 [23Dec2024 20:41:55.416] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
 [23Dec2024 20:43:06.016] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:45:10.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:33259] logged in with entity id 8167 at (-80.48338993278237, 13.8, 182.09164495867938)
+[23Dec2024 20:45:10.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 20:45:12.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 20:45:12.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 20:45:42.561] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 20:45:42.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 20:45:42.563] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 20:45:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:46:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 20:46:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:46:36.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 20:46:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:46:43.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:46:44.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8239, l='ServerLevel[world]', x=55.24, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[23Dec2024 20:46:44.658] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8241, l='ServerLevel[world]', x=47.50, y=13.00, z=121.16] died, message: 'Armorer was killed'
+[23Dec2024 20:47:07.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8318, l='ServerLevel[world]', x=59.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 20:47:07.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8320, l='ServerLevel[world]', x=49.50, y=13.00, z=121.24] died, message: 'Armorer was killed'
+[23Dec2024 20:47:12.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:47:36.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:47:40.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8336, l='ServerLevel[world]', x=55.24, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[23Dec2024 20:47:40.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8338, l='ServerLevel[world]', x=35.51, y=13.00, z=122.28] died, message: 'Armorer was killed'
+[23Dec2024 20:47:45.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8351, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:47:45.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8353, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:48:28.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:43571] logged in with entity id 8354 at (-75.24331230237323, 13.0, 172.38948811802305)
+[23Dec2024 20:48:28.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 20:48:30.618] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 20:48:30.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 20:48:58.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set Momo93bg's game mode to Survival Mode]
+[23Dec2024 20:49:02.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8382, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:49:02.809] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8384, l='ServerLevel[world]', x=40.66, y=13.00, z=127.45] died, message: 'Armorer was killed'
+[23Dec2024 20:49:03.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 20:49:06.616] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:08.913] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:09.215] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:09.415] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:10.115] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:49:22.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8389, l='ServerLevel[world]', x=40.55, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[23Dec2024 20:49:22.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8391, l='ServerLevel[world]', x=42.52, y=13.00, z=126.65] died, message: 'Armorer was killed'
+[23Dec2024 20:49:28.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8397, l='ServerLevel[world]', x=49.06, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:49:28.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8399, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:49:43.458] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8405, l='ServerLevel[world]', x=53.40, y=13.00, z=135.40] died, message: 'Armorer was killed'
+[23Dec2024 20:49:43.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8407, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:49:57.585] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:57.763] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:57.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8416, l='ServerLevel[world]', x=45.25, y=13.00, z=136.51] died, message: 'Armorer was killed'
+[23Dec2024 20:49:57.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8418, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:49:57.978] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:58.176] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:59.168] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:59.365] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:59.578] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:59.788] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:49:59.963] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:00.198] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:00.368] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:00.564] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:00.778] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:00.963] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:01.178] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:01.415] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:01.565] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:03.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 20:50:07.564] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:07.786] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:07.964] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:08.178] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:08.388] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:08.568] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:08.768] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:09.013] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:09.188] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:09.364] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:09.578] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:09.764] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:10.014] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:10.214] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:10.364] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:10.821] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:10.978] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:11.178] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:11.363] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:13.164] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:13.368] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:13.567] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:13.764] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:13.988] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:14.178] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:14.368] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:14.615] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:14.764] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:14.968] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:15.164] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:15.396] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:15.617] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:15.777] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:15.968] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:16.174] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:16.368] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:16.568] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:16.778] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:16.975] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:17.215] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:17.398] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:18.366] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:50:18.568] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:50:18.776] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:50:18.823] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:18.968] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:19.015] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:50:19.165] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:50:19.167] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:19.413] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 20:50:38.765] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:50:45.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8428, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:50:45.158] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8430, l='ServerLevel[world]', x=54.60, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 20:50:56.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8442, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:50:56.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8444, l='ServerLevel[world]', x=48.46, y=13.00, z=127.48] died, message: 'Armorer was killed'
+[23Dec2024 20:51:21.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8452, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:51:21.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8454, l='ServerLevel[world]', x=45.36, y=13.00, z=129.43] died, message: 'Armorer was killed'
+[23Dec2024 20:51:38.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8458, l='ServerLevel[world]', x=52.60, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:51:38.009] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8460, l='ServerLevel[world]', x=41.57, y=13.00, z=127.59] died, message: 'Armorer was killed'
+[23Dec2024 20:51:48.358] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 20:52:08.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8484, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:08.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8486, l='ServerLevel[world]', x=46.65, y=13.00, z=130.65] died, message: 'Armorer was killed'
+[23Dec2024 20:52:11.907] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8496, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:11.908] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8498, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:17.758] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8503, l='ServerLevel[world]', x=56.20, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:17.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8505, l='ServerLevel[world]', x=44.95, y=13.00, z=129.01] died, message: 'Armorer was killed'
+[23Dec2024 20:52:28.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8510, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:28.309] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8512, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:34.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8527, l='ServerLevel[world]', x=52.50, y=13.00, z=134.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:34.208] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8529, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:55.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8534, l='ServerLevel[world]', x=57.67, y=13.00, z=136.50] died, message: 'Armorer was killed'
+[23Dec2024 20:52:55.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8536, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 20:53:21.717] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:53:23.947] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:53:25.714] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:53:35.508] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8547, l='ServerLevel[world]', x=59.52, y=13.00, z=130.26] died, message: 'Armorer was killed'
+[23Dec2024 20:53:35.509] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/8549, l='ServerLevel[world]', x=47.51, y=13.00, z=121.26] died, message: 'Armorer was killed'
