@@ -3961,3 +3961,63 @@ java.net.http.HttpTimeoutException: request timed out
 [23Dec2024 22:06:04.422] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 22:06:04.665] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 22:06:13.813] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 22:06:32.765] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 22:07:02.213] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 22:07:08.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:07:08.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:07:55.924] [Server thread/DEBUG] [mixin/]: Mixing PistonBlockStructureHelperMixin from locks.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[23Dec2024 22:08:18.868] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 22:08:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 22:08:21.056] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:21.355] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:21.356] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:27.916] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:08:30.005] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:30.304] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:30.305] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:54.405] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:54.704] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:08:54.705] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 22:09:16.462] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:09:16.614] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:18.775] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:19.015] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:19.187] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:23.212] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:23.214] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 22:10:29.317] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:29.318] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 22:10:29.765] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:10:29.765] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 22:10:48.520] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[23Dec2024 22:10:50.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 22:10:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 22:11:05.163] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:11:05.752] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:11:06.161] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:08.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 22:12:08.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 22:12:22.764] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:23.012] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:23.214] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:23.367] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:23.567] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:23.814] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:32.362] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:33.867] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 22:12:34.161] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:48.214] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:52.561] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:52.812] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 22:12:55.451] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:55.963] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:56.367] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:56.716] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:56.970] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:12:57.268] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:13:39.726] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 22:14:33.364] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:14:33.365] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[23Dec2024 22:15:06.912] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:15:07.099] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 22:15:07.312] [Server thread/INFO] [cuffed/]: Imranack is interacting!
