@@ -585,3 +585,20 @@
 [23Dec2024 20:33:10.147] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 20:33:10.316] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 20:33:34.743] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:34:42.762] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:34:53.463] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:36:07.921] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:37:12.763] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 20:37:17.313] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:37:43.171] [Server thread/INFO] [cuffed/]: Momo93bg is interacting!
+[23Dec2024 20:37:54.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 20:37:54.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 20:37:54.364] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 20:41:37.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:54421] logged in with entity id 8066 at (-80.48338993278237, 13.8, 182.09164495867938)
+[23Dec2024 20:41:37.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 20:41:38.744] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 20:41:38.745] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 20:41:55.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 20:41:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 20:41:55.416] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 20:43:06.016] [Server thread/INFO] [cuffed/]: Imranack is interacting!
