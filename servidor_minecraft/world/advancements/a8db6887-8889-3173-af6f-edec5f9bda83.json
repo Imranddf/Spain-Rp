@@ -2398,7 +2398,8 @@
       "potato": "2024-12-23 18:05:03 +0000",
       "bread": "2024-12-08 13:57:00 +0000",
       "suspicious_stew": "2024-12-23 19:31:09 +0000",
-      "melon_slice": "2024-12-23 18:03:39 +0000"
+      "melon_slice": "2024-12-23 18:03:39 +0000",
+      "cooked_chicken": "2024-12-24 12:55:24 +0000"
     },
     "done": false
   },
@@ -3149,6 +3150,36 @@
   "casinocraft:recipes/decorations/wool_light_gray": {
     "criteria": {
       "has_wool": "2024-12-23 19:50:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-24 13:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-24 13:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-24 13:05:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-24 13:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-24 13:05:46 +0000"
     },
     "done": true
   },

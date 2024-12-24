@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-12-24 12:39:46 +0000",
       "minecraft:plains": "2024-12-24 11:26:56 +0000"
     },
     "done": false
