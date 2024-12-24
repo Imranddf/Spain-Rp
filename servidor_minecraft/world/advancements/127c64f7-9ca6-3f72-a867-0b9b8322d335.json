@@ -54,6 +54,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2024-12-24 12:09:57 +0000",
+      "apple": "2024-12-24 12:35:05 +0000",
+      "potato": "2024-12-24 12:35:21 +0000",
       "pumpkin_pie": "2024-12-24 12:08:14 +0000",
       "bread": "2024-10-30 15:17:24 +0000"
     },
@@ -2792,6 +2794,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-24 12:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-24 12:29:30 +0000"
     },
     "done": true
   },
