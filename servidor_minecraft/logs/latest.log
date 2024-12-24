@@ -325,3 +325,52 @@
 [24Dec2024 12:15:44.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Armando
 [24Dec2024 12:17:44.570] [Server thread/INFO] [cuffed/]: Florion is interacting!
 [24Dec2024 12:18:28.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Unbanned Momo93bg]
+[24Dec2024 12:20:36.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:44021] logged in with entity id 1207 at (-78.69999998807907, 21.0, -281.51249998807907)
+[24Dec2024 12:20:36.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[24Dec2024 12:20:37.966] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[24Dec2024 12:20:37.967] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[24Dec2024 12:21:10.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Toni lost connection: Disconnected
+[24Dec2024 12:21:10.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toni left the game
+[24Dec2024 12:21:10.315] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Toni
+[24Dec2024 12:21:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[24Dec2024 12:22:01.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[24Dec2024 12:22:07.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[24Dec2024 12:22:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[24Dec2024 12:22:34.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[24Dec2024 12:23:08.554] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1349, l='ServerLevel[world]', x=-282.50, y=10.00, z=368.50] died, message: 'Fisherman was killed'
+[24Dec2024 12:23:08.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/1350, l='ServerLevel[world]', x=-276.50, y=10.00, z=367.50] died, message: 'Fisherman was killed'
+[24Dec2024 12:24:15.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Toni[/127.189.193.26:47537] logged in with entity id 1396 at (114.66878718888152, 12.0, -324.4949517144221)
+[24Dec2024 12:24:15.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toni joined the game
+[24Dec2024 12:24:19.812] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Toni (18)
+[24Dec2024 12:24:19.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Toni
+[24Dec2024 12:25:34.570] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:25:39.601] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:25:39.602] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[24Dec2024 12:25:52.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[24Dec2024 12:26:40.410] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:27:06.967] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[24Dec2024 12:27:13.617] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:27:13.618] [Server thread/INFO] [cuffed/]: attempting to put restraints on Momo93bg
+[24Dec2024 12:29:28.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Toni was taken down by Imranack
+[24Dec2024 12:29:30.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion was decimated by Imranack
+[24Dec2024 12:29:34.205] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1894, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
+[24Dec2024 12:30:10.269] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:10.721] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:12.574] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[24Dec2024 12:30:31.572] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:32.020] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:32.919] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:33.520] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:34.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1891, l='ServerLevel[world]', x=-24.56, y=3.00, z=157.76] died, message: 'Villager was killed'
+[24Dec2024 12:30:34.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1892, l='ServerLevel[world]', x=2.93, y=3.50, z=158.50] died, message: 'Villager was killed'
+[24Dec2024 12:30:34.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1893, l='ServerLevel[world]', x=-12.30, y=3.00, z=159.71] died, message: 'Villager was killed'
+[24Dec2024 12:30:34.805] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1895, l='ServerLevel[world]', x=-13.78, y=3.00, z=158.22] died, message: 'Villager was killed'
+[24Dec2024 12:30:35.019] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:35.919] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[24Dec2024 12:30:38.373] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:38.967] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:39.422] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:39.819] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[24Dec2024 12:30:40.471] [Server thread/INFO] [cuffed/]: Imranack is interacting!
