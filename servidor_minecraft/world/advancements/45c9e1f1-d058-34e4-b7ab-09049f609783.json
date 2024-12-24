@@ -4943,5 +4943,17 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-24 11:54:11 +0000"
+    },
+    "done": true
+  },
+  "jeg:light_grip": {
+    "criteria": {
+      "Item": "2024-12-24 12:02:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
