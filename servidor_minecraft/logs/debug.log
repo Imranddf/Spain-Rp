@@ -4323,3 +4323,32 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Dec2024 12:10:06.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Triggered [tr] (set value to 5)]
 [24Dec2024 12:10:06.219] [Server thread/INFO] [cuffed/]: Florion is interacting!
 [24Dec2024 12:10:11.764] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=82, y=20, z=-316}
+[24Dec2024 12:10:36.014] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=79, y=20, z=-336}
+[24Dec2024 12:10:51.263] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=103, y=20, z=-336}
+[24Dec2024 12:10:51.520] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[24Dec2024 12:11:06.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 12:11:06.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 12:11:10.665] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=79, y=20, z=-328}
+[24Dec2024 12:11:42.515] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=79, y=20, z=-319}
+[24Dec2024 12:11:55.413] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=67, y=14, z=-312}
+[24Dec2024 12:12:00.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Triggered [tr] (set value to 5)]
+[24Dec2024 12:12:12.119] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[24Dec2024 12:12:19.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Gave 1000 experience points to Armando]
+[24Dec2024 12:12:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Triggered [tr] (set value to 5)]
+[24Dec2024 12:12:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Triggered [tr] (set value to 5)]
+[24Dec2024 12:12:38.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Triggered [tr] (set value to 5)]
+[24Dec2024 12:12:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Armando: Triggered [tr] (set value to 5)]
+[24Dec2024 12:14:36.915] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[24Dec2024 12:15:44.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Armando lost connection: Disconnected
+[24Dec2024 12:15:44.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Armando left the game
+[24Dec2024 12:15:44.173] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Armando
+[24Dec2024 12:15:44.173] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Armando
+[24Dec2024 12:16:06.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 12:16:06.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 12:17:44.570] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[24Dec2024 12:18:14.211] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
+[24Dec2024 12:18:14.298] [Server thread/DEBUG] [mixin/]: Mixing addlock.StructureTemplateMixin from locks.mixins.json into net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplate
+[24Dec2024 12:18:14.299] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$fillFromWorld$1(Lmelonslise/locks/common/util/Cuboid6i;Lnet/minecraft/core/BlockPos;Lmelonslise/locks/common/util/Lockable;)V to md62cde8$lambda$fillFromWorld$1$0 in locks.mixins.json:addlock.StructureTemplateMixin
+[24Dec2024 12:18:14.299] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$fillFromWorld$0(Lmelonslise/locks/common/util/Cuboid6i;Lmelonslise/locks/common/util/Lockable;)Z to md62cde8$lambda$fillFromWorld$0$1 in locks.mixins.json:addlock.StructureTemplateMixin
+[24Dec2024 12:18:28.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Unbanned Momo93bg]
+[24Dec2024 12:19:20.361] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=67, y=14, z=-312}
